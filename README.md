@@ -1,12 +1,9 @@
 Olá! 👋 Meu nome é Gabriel Bastos :)
 ===============================
 
-Frontend Web Developer
-----------------------
+## Sobre mim
 
-### Sobre mim
-
-Venho dedicando-me à programação desde outubro de 2021, momento no qual decidi transicionar minha carreira, por vislumbrar na programação melhores oportunidades de desenvolvimento pessoal e profissional. Com isso, passei a sentir maior felicidade, motivação e foco quando comecei a trilhar esta jornada, por ter nutrido e cultivado, desde a minha infância, muita paixão por computadores, pela internet e por tecnologias, no geral; desse modo tenho excelentes expectativas quanto ao meu sucesso!
+Venho dedicando-me à programação desde outubro de 2021, momento no qual decidi transicionar minha carreira, por vislumbrar na programação melhores oportunidades de desenvolvimento pessoal e profissional. Com isso, passei a sentir maior felicidade, motivação e foco quando comecei a trilhar esta jornada, por ter nutrido e cultivado, desde a minha infância, muita paixão e curiosidade por computadores, pela internet e por tecnologias, no geral.
 
 - 🌍 Eu vivo em Salvador, na Bahia
 - 🚀 No momento, estou trabalhando no [PokeInfo](http://github.com/bastie1/Pokeinfo)
@@ -22,7 +19,7 @@ Venho dedicando-me à programação desde outubro de 2021, momento no qual decid
   - Cantar
   - Assistir animes
 
-### Habilidades, Tecnologias e Ferramentas
+## Habilidades, Tecnologias e Ferramentas
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -33,7 +30,7 @@ Venho dedicando-me à programação desde outubro de 2021, momento no qual decid
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="36" height="36" alt="Git" /></a>
 </p>
                     
-### Redes Sociais                  
+## Redes Sociais                  
                   
 <p align="left">                          
   <a href="https://discord.com/users/bastiel#7065" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
@@ -41,7 +38,7 @@ Venho dedicando-me à programação desde outubro de 2021, momento no qual decid
   <a href="https://www.linkedin.com/in/gbstos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
                       
-### Badges
+## Badges
 
 <b>Top Repositories</b>
 <div width="100%" align="center"><a href="https://github.com/bastie1/pokeinfo" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bastie1&repo=pokeinfo&title_color=facc15&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
