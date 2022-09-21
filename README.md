@@ -8,12 +8,19 @@ Frontend Web Developer
 
 Venho dedicando-me à programação desde outubro de 2021, momento no qual decidi transicionar minha carreira, por vislumbrar na programação melhores oportunidades de desenvolvimento pessoal e profissional. Com isso, passei a sentir maior felicidade, motivação e foco quando comecei a trilhar esta jornada, por ter nutrido e cultivado, desde a minha infância, muita paixão por computadores, pela internet e por tecnologias, no geral; desse modo tenho excelentes expectativas quanto ao meu sucesso!
 
-*   🌍  Eu vivo em Salvador
-*   🚀  No momento, estou trabalhando no [PokeInfo](http://github.com/bastie1/Pokeinfo)
-*   🧠  Estou aprendendo ReactJS
-*   👯  Busco colaborar em projetos na área de desenvolvimento web, no frontend!
-*   ✉️  Como me contatar: [ggbstos@gmail.com](mailto:ggbstos@gmail.com) ou quaisquer das redes sociais abaixo
-*   ⚡   Fun fact: Treino digitação todos os dias para iniciar os meus afazeres diários, pois isso me ajuda a manter o foco! Meu recorde é de 149WPM.
+- 🌍 Eu vivo em Salvador, na Bahia
+- 🚀 No momento, estou trabalhando no [PokeInfo](http://github.com/bastie1/Pokeinfo)
+- 🧠 Estou aprendendo:
+  - ReactJS
+  - Fundamentos de Design
+- 👯 Busco colaborar em projetos na área de desenvolvimento web, no frontend!
+- ✉️ Como me contatar: [ggbstos@gmail.com](mailto:ggbstos@gmail.com) ou quaisquer das redes sociais abaixo
+- ⚡ Fun fact: Treino digitação todos os dias para iniciar os meus afazeres diários, pois isso me ajuda a manter o foco! Meu recorde é de 149WPM.
+- 🎲 Hobbies:
+  - Jogar no computador e no celular
+  - Tocar contrabaixo e violão
+  - Cantar
+  - Assistir animes
 
 ### Habilidades, Tecnologias e Ferramentas
 
