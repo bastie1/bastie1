@@ -10,7 +10,7 @@ Venho dedicando-me à programação desde outubro de 2021, momento no qual decid
 - 🧠 Estou aprendendo:
   - ReactJS
   - Fundamentos de Design
-- 👯 Busco colaborar em projetos na área de desenvolvimento web, no frontend!
+- 👯 Busco colaborar em... qualquer projeto, valorizo o aprendizado contínuo, compartilhar conhecimento e ajudar pessoas!
 - ✉️ Como me contatar: [ggbstos@gmail.com](mailto:ggbstos@gmail.com) ou quaisquer das redes sociais abaixo
 - ⚡ Fun fact: Treino digitação todos os dias para iniciar os meus afazeres diários, pois isso me ajuda a manter o foco! Meu recorde é de 149WPM.
 - 🎲 Hobbies:
